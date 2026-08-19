@@ -1,10 +1,10 @@
-# LoopCart
+# 🛒 LoopCart
 LoopCart is a Python application that delivers personalised welcome messages to users.
 
-## Project Purpose
+## 📖 Project Purpose
 This lab covers: cloning a repo, creating a feature branch, writing and testing code, committing with meaningful messages, pushing and opening a Pull Request, applying code review feedback, merging to main, and triggering a CI/CD pipeline.
 
-## Prerequisites
+## ✅ Prerequisites
 - Git installed and configured
 - Python 3 installed
 - Terminal access (Windows users: use Git Bash)
@@ -21,5 +21,5 @@ Run the app: python3 app.py
 4. Open a Pull Request and request a review
 5. Apply feedback then merge to main
 
-## License
-MIT
+## 📜 License
+This project is licensed under the MIT License.
